@@ -1,1 +1,2 @@
-window.addEventListener("click", () => body.style.color = 'red';);
+const body = document.querySelector('body');
+window.addEventListener("click", () => body.style.backgroundColor = 'blue');
