@@ -1,1 +1,1 @@
-window.addEventListener("click", () => style.body.backGroundColor = "red")
+window.addEventListener("click", () => body.style.color = 'red';);
